@@ -30,3 +30,6 @@ console.log("Hello");
 ```python
 print("A jano egy skeleton")
 ```
+
+
+Sziasztok én szabinyest vagyok
